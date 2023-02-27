@@ -1,0 +1,13 @@
+.container{
+    border: 1px solid black;
+}
+
+.row{
+    border: 2px solid yellowgreen;
+}
+
+[class^=col-]{
+    min-height: 50px;
+    border: solid 1px blue;
+}
+
